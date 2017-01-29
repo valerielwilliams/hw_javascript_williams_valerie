@@ -1,7 +1,8 @@
 var iceCream = [
     'Mint Chocolate Chip',
     'Cake Batter',
-    'Chocolate'
+    'Chocolate',
+    'Vanilla'
 ]
 ;
 
