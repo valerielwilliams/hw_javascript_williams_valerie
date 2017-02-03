@@ -17,3 +17,15 @@ var numba = function (string) {
 numba('7');
 numba('seventy');
 numba('university');
+
+function inception() {
+    display(favMovie);
+}
+
+function display() {
+    console.log(favMovie + ' is a fantastic movie.');
+}
+
+var favMovie = 'Star Wars';
+
+inception(display, favMovie);
